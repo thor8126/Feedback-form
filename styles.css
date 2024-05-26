@@ -64,7 +64,6 @@ input[type="radio"] {
   border-radius: 50%;
   position: relative;
   cursor: pointer;
-  margin-left: 2rem;
 }
 
 input[type="radio"]:checked {
